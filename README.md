@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://imgfz.com/i/3X7GJg6.jpeg" width=""/>
+  <img src="https://scontent.faqp2-3.fna.fbcdn.net/v/t39.30808-6/294385848_5319382854767754_4080173633229381079_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFd4g11Fx44sGsi4FeP2CQXWeXPP_1XwOlZ5c8__VfA6WjOiPW_DLVnZoC7igbnP0x_JJVo-tG4MdjTe4H4i1x0&_nc_ohc=CHi5PqH8FgUAX9SMTru&_nc_ht=scontent.faqp2-3.fna&oh=00_AfBhtz4yP7QSPyx9CGBdMS8NcbAPlTmIZsEKNg8hqyyvrw&oe=639A83AF" width=""/>
+  <hr>
 </div>
 
-----
 ### :information_desk_person: Redes Sociales :
 <!---- 👋 Hi, I’m @ValerioGomez
 - 👀 I’m interested in to develop aplcations with differents programatio'ns languages,
@@ -111,6 +111,7 @@
 <h3 align="center">Contador de Vistas</h3>
 <p align="center"> 
 <a href="https://github.com/ValerioGomez"><img src="https://profile-counter.glitch.me/ValerioGomez/count.svg" style="height:auto; width:300px;"/></a><br/>
+  <hr>
 <a href="https://github.com/ValerioGomez"><img src="https://github.com/ValerioGomez/ValerioGomez/blob/main/imganen%20Dalle.jpg?raw=true" style="height:auto; width:auto;"/></a>
 </p>
 
