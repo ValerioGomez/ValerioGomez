@@ -111,7 +111,7 @@
 <h3 align="center">Contador de Vistas</h3>
 <p align="center"> 
 <a href="https://github.com/ValerioGomez"><img src="https://profile-counter.glitch.me/ValerioGomez/count.svg" style="height:auto; width:300px;"/></a><br/>
-<a href="https://github.com/ValerioGomez"><img src="" style="height:auto; width:auto;"/></a>
+<a href="https://github.com/ValerioGomez"><img src="https://github.com/ValerioGomez/ValerioGomez/blob/main/imganen%20Dalle.jpg?raw=true" style="height:auto; width:auto;"/></a>
 </p>
 
 <!---
